@@ -1,0 +1,4 @@
+apple - 50
+orange - 60
+banana - 100
+potapo - 40
